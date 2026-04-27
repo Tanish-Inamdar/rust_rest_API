@@ -10,7 +10,7 @@ A high-performance, asynchronous REST API built with Rust, designed for scalabil
 * **Structured Logging**: Ready for integration with `tracing` for production-grade observability.
 * **Environment Management**: Configuration via `dotenv` for seamless deployment across environments.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language**: [Rust](https://www.rust-lang.org/)
 * **Web Framework**: [Axum](https://github.com/tokio-rs/axum)
